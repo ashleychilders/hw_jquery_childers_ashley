@@ -10,3 +10,4 @@ https://github.com/ashleychilders/hw_jquery_childers_ashley
     - I used this site to get names of colors that were recognized on all browsers.
 
 **Comments**
+I felt much more comfortable completing this assignment compared to the last one. I think I might be a fan of jQuery! 
