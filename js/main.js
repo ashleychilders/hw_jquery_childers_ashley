@@ -3,6 +3,6 @@ $( document ).ready( function() {
     $( 'p' ).css( {
         'color': 'blue',
         'background-color': 'gold',
-        'line-height': 2
+        'line-height': 1.5
     } );
 } );
