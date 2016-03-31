@@ -1,6 +1,6 @@
 $( document ).ready( function() {
     var paragraphs = $( 'p' );
-    $( 'p' ).css( {
+    paragraphs.css( {
         'color': 'blue',
         'background-color': 'gold',
         'line-height': 1.5
