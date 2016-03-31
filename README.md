@@ -1,5 +1,5 @@
 ## Link to Assignment on GitHub
-https://github.com/ashleychilders/hw_listeners_childers_ashley
+https://github.com/ashleychilders/hw_jquery_childers_ashley
 
 
 ### Resources
