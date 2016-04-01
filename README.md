@@ -9,7 +9,7 @@ https://github.com/ashleychilders/hw_jquery_childers_ashley
 - https://www.atlassian.com/git/tutorials/rewriting-history/git-commit--amend
     - I used this site to learn about amending commits when I noticed my commit for the article addition was missing. In the article it mentioned once a branch is pushed to a public repository to not amend the commit.
 
-**Comments**
+## Comments
 
 When checking the requirements against my repository I noticed my commit for the article addition was missing. I distinctly remember writing a commit for this addition and noting the link it came from. When I think I have too many characters in my commits, I will copy the text and check the count in Word. I guess I somehow missed hitting enter on this particular commit because it isn't in my commit list. I searched online to see if there was a way to amend this but based on information in the article above it noted to not amend a commit that has been pushed to a public repository.
 
