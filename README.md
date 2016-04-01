@@ -7,7 +7,7 @@ https://github.com/ashleychilders/hw_jquery_childers_ashley
 - http://www.w3schools.com/colors/colors_names.asp
     - I used this site to get names of colors that were recognized on all browsers.
 - https://www.atlassian.com/git/tutorials/rewriting-history/git-commit--amend
-    - I used this site to ready about amending commits when I noticed my commit for the article addition was missing. In the article it mentioned once a branch is pushed to a public repository to not amend the commit.
+    - I used this site to learn about amending commits when I noticed my commit for the article addition was missing. In the article it mentioned once a branch is pushed to a public repository to not amend the commit.
 
 **Comments**
 
